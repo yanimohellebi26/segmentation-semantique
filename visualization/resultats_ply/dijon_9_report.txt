@@ -1,0 +1,13 @@
+RAPPORT DE SEGMENTATION - dijon_9.ply
+==================================================
+
+Total points: 1,024
+Classes détectées: 1
+
+CLASSES IDENTIFIÉES:
+------------------------------
+
+Classe 3: Infrastructure / Route
+  Points: 1,024 (100.0%)
+  Code original: 303050500
+  Confiance: 🟡 Probable

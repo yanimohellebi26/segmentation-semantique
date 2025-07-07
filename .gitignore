@@ -1,0 +1,45 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environnements 
+.env/
+.venv/
+env/
+venv/
+*.conda
+*.env
+*.yml
+
+# Conda environment 
+environment.yml
+
+# Données temporaires ou lourdes
+*.npy
+*.npz
+*.ply
+*.png
+*.csv
+*.log
+
+# Dossiers générés
+data/
+data/test/
+data/train/
+models/
+visualizations_real/
+final_dataset/
+blocks_dataset/
+objects_all/
+objects_10classes/
+reconstructed_scenes/
+Pointnet2_PyTorch/
+__output__/
+
+# Modèles entraînés
+*.pth
+data/test/*.copc.laz
